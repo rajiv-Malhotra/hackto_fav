@@ -1,0 +1,1 @@
+create a simple webpage that accepts details if they are vaccinated or not from covid antitode.
