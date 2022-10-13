@@ -1,1 +1,0 @@
-submit a optimal code for finding prime number.
